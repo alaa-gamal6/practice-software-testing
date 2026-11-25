@@ -1,4 +1,4 @@
 package test_for_login;
 
-public class login_1 {
+public class login1 {
 }
