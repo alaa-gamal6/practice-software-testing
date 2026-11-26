@@ -12,8 +12,8 @@ This repository adapts the `02-Web-Automation` track of the AOS QA Automation re
 | Member 2 | Register | `Register_All_Test_Cases.xlsx` |
 | Member 3 | Login | `TestCasesForLogin` |
 | Member 4 | Checkout | `CheckOut_All_Test_Cases.xlsx` |
-| Member 5 |  | `CheckOut_All_Test_Cases.xlsx` |
-
+| Member 5 | My Account| `TestCasesForMyAccount.xlsx` |
+| Member 6 | Contact& Language Switching| `TestCasesForContact&LanguageSwitching.xlsx` |
 ## Repository layout
 
 ```text
@@ -32,11 +32,15 @@ Tool-Shop-QA-Automation-Suite/
 │   │       │   │   ├── register/
 │   │       │   │   ├── login/
 │   │       │   │   └── checkout/
+│   │       │   │   ├── My Account/
+│   │       │   │   └── Contact& Language Switching/
 │   │       │   ├── tests/Integration/
 │   │       │   │   ├── home/
 │   │       │   │   ├── register/
 │   │       │   │   ├── login/
 │   │       │   │   └── checkout/
+│   │       │   │   ├── My Account/
+│   │       │   │   └── Contact& Language Switching/
 │   │       │   └── listeners/
 │   │       └── resources/
 │   ├── test-data/
@@ -44,6 +48,8 @@ Tool-Shop-QA-Automation-Suite/
 │   │   ├── register/
 │   │   ├── login/
 │   │   └── checkout/
+|   |   ├── My Account/
+│   │   └── Contact& Language Switching/
 │   ├── screenshots/
 │   ├── reports/
 │   ├── pom.xml
