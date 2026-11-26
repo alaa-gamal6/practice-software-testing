@@ -12,6 +12,7 @@ This repository adapts the `02-Web-Automation` track of the AOS QA Automation re
 | Member 2 | Register | `Register_All_Test_Cases.xlsx` |
 | Member 3 | Login | `TestCasesForLogin` |
 | Member 4 | Checkout | `CheckOut_All_Test_Cases.xlsx` |
+| Member 5 |  | `CheckOut_All_Test_Cases.xlsx` |
 
 ## Repository layout
 
