@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ToolShop Suite">
+    <test name="Component Tests">
+        <packages>
+            <package name="com.toolshop.automation.tests.component.*"/>
+        </packages>
+    </test>
+    <test name="Integration Tests">
+        <packages>
+            <package name="com.toolshop.automation.tests.integration.*"/>
+        </packages>
+    </test>
+    <test name="E2E Tests">
+        <packages>
+            <package name="com.toolshop.automation.tests.e2e.*"/>
+        </packages>
+    </test>
+</suite>
