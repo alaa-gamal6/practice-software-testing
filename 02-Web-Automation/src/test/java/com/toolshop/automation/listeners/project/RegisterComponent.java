@@ -1,4 +1,4 @@
-package project;
+package com.toolshop.automation.listeners.project;
 
 import java.time.Duration;
 import java.util.List;
